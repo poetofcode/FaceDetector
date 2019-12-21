@@ -1,5 +1,5 @@
 # FaceDetector
-Android app for the face recognition powered by ML Kit for Firebase
+Android app for the face recognition :godmode: powered by ML Kit for Firebase :fire:
 
 ## Screenshot
 
